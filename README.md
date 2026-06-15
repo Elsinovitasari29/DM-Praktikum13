@@ -13,3 +13,11 @@ Proyek ini merupakan implementasi model machine learning untuk memprediksi harga
 - Antarmuka web sederhana menggunakan Flask (app.py)
 
 ## 📁 Struktur Proyek
+mysystem/
+├── app.py # Aplikasi web Flask
+├── model.pkl # Model machine learning yang sudah dilatih
+├── district_mean_price.pkl # Data rata-rata harga per wilayah
+├── jabodetabek_house_price.csv # Dataset harga rumah
+├── requirements.txt # Daftar dependencies
+├── ML_meetTerakhir_asdos.ipynb # Notebook eksperimen
+└── README.md # Dokumentasi proyek
